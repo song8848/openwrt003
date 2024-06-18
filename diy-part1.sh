@@ -17,5 +17,5 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-
+echo 'src-git UA2F https://github.com/Zxilly/UA2F' >>feeds.conf.default
 echo 'src-git showshow https://github.com/song8848/showshow' >>feeds.conf.default
