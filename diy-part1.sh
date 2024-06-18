@@ -18,4 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 echo 'src-git UA2F https://github.com/Zxilly/UA2F' >>feeds.conf.default
-echo 'src-git showshow https://github.com/song8848/showshow' >>feeds.conf.default
+echo 'src-git luci-app-showshow https://github.com/song8848/showshow' >>feeds.conf.default
